@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10060" started-at="2020-05-27T12:38:08 IST" finished-at="2020-05-27T12:38:18 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10060" started-at="2020-05-27T12:38:08 IST" finished-at="2020-05-27T12:38:18 IST">
+      <class name="academy.SeleniumTest">
+        <test-method status="PASS" signature="sele()[pri:0, instance:academy.SeleniumTest@64729b1e]" name="sele" duration-ms="9993" started-at="2020-05-27T12:38:08 IST" finished-at="2020-05-27T12:38:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sele -->
+        <test-method status="PASS" signature="sele1()[pri:0, instance:academy.SeleniumTest@64729b1e]" name="sele1" duration-ms="1" started-at="2020-05-27T12:38:18 IST" finished-at="2020-05-27T12:38:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sele1 -->
+      </class> <!-- academy.SeleniumTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
