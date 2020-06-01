@@ -12,5 +12,9 @@ public class AppiumTest {
 	public void app1() {
  System.out.println("app testcase 2");
 }
+	@Test
+	public void app2() {
+ System.out.println("app testcase 3");
+}
 	
 }
